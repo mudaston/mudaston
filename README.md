@@ -156,7 +156,7 @@
     <img
       src="https://img.shields.io/badge/styled%20components-333333?style=for-the-badge&logo=styled-components"
       alt="javascript"
-      height="40"
+      height="35"
     />
   </a>
 </p>
