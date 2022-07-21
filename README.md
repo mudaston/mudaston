@@ -126,18 +126,6 @@
       height="40"
     />
   </a>
-  <br />
-  <br />
-  <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/styled%20components-333333?style=for-the-badge&logo=styled-components"
-      alt="javascript"
-    />
-  </a>
-</p>
-
-<h3 align="left">Tools:</h3>
-<p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -160,6 +148,14 @@
       alt="postman"
       width="40"
       height="40"
+    />
+  </a>
+  <br />
+  <br />
+  <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/styled%20components-333333?style=for-the-badge&logo=styled-components"
+      alt="javascript"
     />
   </a>
 </p>
