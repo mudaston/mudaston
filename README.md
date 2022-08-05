@@ -3,7 +3,7 @@
 
 <br />
 
-- 🌱 I’m currently learning: **React, Redux, TypeScript**
+- 🌱 I’m currently learning: **React, Redux, Next, TypeScript**
 - 💬 Ask me about **React**
 - 📫 How to reach me: **mudaston.work@gmail.com**
 
