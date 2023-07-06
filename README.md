@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Vasilenko Renat 👋</h1>
-<h3 align="center">Frontend developer. React one love :heart:</h3>
+<h3 align="center">Frontend developer. I'm also studying Backend :grin:</h3>
 
 <br />
 
-- 🌱 I’m currently learning: **React, Redux, Next, TypeScript**
-- 💬 Ask me about **React**
+- 🌱 I’m currently learning: **Next, Nest, PostgreSQL, TypeScript**
+- 💬 Ask me about **whatever you want :D**
 - 📫 How to reach me: **mudaston.work@gmail.com**
 
 <p align="left"></p>
