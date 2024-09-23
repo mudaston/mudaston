@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vasilenko Renat 👋</h1>
-<h3 align="center">Frontend developer. I'm also studying Backend :grin:</h3>
+<h3 align="center">Frontend developer. I also study Backend :grin:</h3>
 
 <br />
 
